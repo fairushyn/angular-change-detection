@@ -1,0 +1,439 @@
+repo_name: fairushyn/angular-change-detection
+report_id: b99ee64c6733ce950ed1995e47bcace9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-13T18:07:00+00:00'
+requested_by: JeanMeche
+provider: github
+branch: master
+detected_tools_count: 32
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:04:15.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/fairushyn/angular-change-detection
+  detection_source: Repo Metadata
+- name: Angular
+  description: A platform for building mobile and desktop web applications
+  website_url: https://angular.io
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-10-31 20:58:49.000000000 Z
+- name: RxJS
+  description: The Reactive Extensions for JavaScript
+  website_url: http://reactivex.io/rxjs/
+  version: 6.6.7
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Concurrency Frameworks
+  image_url: https://img.stackshare.io/service/1796/984368.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Angular CLI
+  last_updated_on: 2017-08-17 08:00:05.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Angular CLI
+  last_updated_on: 2017-08-17 08:00:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/.github/workflows/main.yml
+  detection_source: ".github/workflows/main.yml"
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2022-11-03 14:56:00.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2022-11-04 09:32:22.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Angular CLI
+  last_updated_on: 2017-08-17 08:00:05.000000000 Z
+- name: qrcode
+  website_url: http://goqr.me/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8580/no-img-open-source.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular-devkit/build-angular"
+  description: Angular Webpack Build Facade
+  package_url: https://www.npmjs.com/@angular-devkit/build-angular
+  version: 17.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/animations"
+  description: Angular - animations integration with web-animations
+  package_url: https://www.npmjs.com/@angular/animations
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/cli"
+  description: CLI tool for Angular
+  package_url: https://www.npmjs.com/@angular/cli
+  version: 17.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/common"
+  description: Angular - commonly needed directives and services
+  package_url: https://www.npmjs.com/@angular/common
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/compiler"
+  description: Angular - the compiler library
+  package_url: https://www.npmjs.com/@angular/compiler
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/compiler-cli"
+  description: Angular - the compiler CLI for Node.js
+  package_url: https://www.npmjs.com/@angular/compiler-cli
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/forms"
+  description: Angular - directives and services for creating forms
+  package_url: https://www.npmjs.com/@angular/forms
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/language-service"
+  description: Angular - language services
+  package_url: https://www.npmjs.com/@angular/language-service
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/platform-browser"
+  description: Angular - library for using Angular in a web browser
+  package_url: https://www.npmjs.com/@angular/platform-browser
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/platform-browser-dynamic"
+  description: Angular - library for using Angular in a web browser with JIT compilation
+  package_url: https://www.npmjs.com/@angular/platform-browser-dynamic
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/platform-server"
+  description: Angular - library for using Angular in Node.js
+  package_url: https://www.npmjs.com/@angular/platform-server
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@angular/router"
+  description: Angular - the routing library
+  package_url: https://www.npmjs.com/@angular/router
+  version: 17.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.12.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:04:15.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:04:15.000000000 Z
+- name: npm-check
+  description: Check for outdated, incorrect, and unused dependencies
+  package_url: https://www.npmjs.com/npm-check
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17023/default_32f63a11ae9faad5eff3053ff1a1600fde8a525b.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2022-11-04 09:32:22.000000000 Z
+- name: qrcode
+  description: QRCode / 2d Barcode api with both server side and client side support
+    using canvas
+  package_url: https://www.npmjs.com/qrcode
+  version: 1.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17638/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-11-25 16:15:13.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.14.1
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2022-11-03 13:15:34.000000000 Z
+- name: zone.js
+  description: Zones for JavaScript
+  package_url: https://www.npmjs.com/zone.js
+  version: 0.14.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
+  detection_source_url: https://github.com/fairushyn/angular-change-detection/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Matthieu Riegler
+  last_updated_on: 2023-10-31 20:58:49.000000000 Z
